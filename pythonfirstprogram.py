@@ -1,0 +1,4 @@
+print("Hello World, Welcome to Automation Testing World")
+print("Python is a High Level Programming Langauge")
+print(10+20)
+print("Welcome to Automation Wolrd")
